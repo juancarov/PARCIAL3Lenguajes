@@ -1,0 +1,7 @@
+A = MATRIX([1,2,3]; [4,5,6])
+B = MATRIX([1,0]; [0,1]; [2,2])
+C = DOTPRODUCT(A, B)
+
+X = MATRIX([2,2])
+Y = MATRIX([5]; [7])
+Z = DOTPRODUCT(X, Y)
