@@ -33,6 +33,10 @@ La gramática no solo define la sintaxis válida del lenguaje (las reglas para C
 
 Cada operación activa una función que produce una traducción estructurada como create(tabla), insert(tabla, valores), read(tabla), etc., y además actualiza una tabla de símbolos, donde se registran las tablas creadas y sus columnas.
 
+### Funcion
+
+
+
 #### Entrada
 
 ```python
