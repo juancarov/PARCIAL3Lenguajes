@@ -35,7 +35,11 @@ Cada operación activa una función que produce una traducción estructurada com
 
 ### Funcion
 
+La gramática está en las funciones del parser.
 
+Los atributos son los return y las actualizaciones de tabla_simbolos.
+
+No existe una sola función que cree la gramática: la gramática está embebida en la estructura del parser completo.
 
 #### Entrada
 
